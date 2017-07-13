@@ -1,0 +1,14 @@
+>Configurar menus{
+	Config. Hora,
+	Config. Horario Ativacao das fases,
+	Testar Fases,
+	Creditos/Suporte,
+	Configurar Brilho LCD (X),
+	???
+	}
+>Brilho LCD (X)
+>Correcao do relogio adiantando(X)
+>Modo pouca energia
+>Mecanismo STOP
+>Fases (X)
+>Sensor umidade ON/OFF
