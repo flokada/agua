@@ -12,3 +12,6 @@
 >Mecanismo STOP
 >Fases (X)
 >Sensor umidade ON/OFF
+
+
+Teste teste
